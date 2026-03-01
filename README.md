@@ -1,116 +1,110 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--         DESMOND OPOKU ANANE — GITHUB PROFILE README v3            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- HEADER BANNER — capsule-render is the most stable service -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff7,30:7b2ff7,60:f107a3,100:ffb347&height=260&section=header&text=DESMOND%20OPOKU%20ANANE&fontSize=50&fontColor=ffffff&fontAlignY=42&stroke=ffffff&strokeWidth=1&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=63&descSize=18&animation=scaleIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff7,30:7b2ff7,60:f107a3,100:ffb347&height=280&section=header&text=DESMOND%20OPOKU%20ANANE&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=Full-Stack%20Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20DevOps%20Engineer&descAlignY=62&descSize=18&animation=scaleIn" />
 
 </div>
 
 <div align="center">
 
-<!-- TYPING ANIMATION — demolab is reliable -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=I+build+things+that+actually+work.;Python+%7C+Java+%7C+JavaScript+%7C+React;Docker+%7C+CI%2FCD+%7C+Microservices;Turning+ideas+into+scalable+software.;Healthcare+Tech+%7C+Civic+Tech+%7C+Enterprise+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=900&color=00FFF7&center=true&vCenter=true&width=800&lines=Building+scalable+backends+with+Python+%26+Java;Crafting+beautiful+frontends+with+React;Shipping+production+apps+with+Docker+%26+CI-CD;Designing+systems+that+actually+work" alt="Typing" />
 
-<br/><br/>
+</div>
 
-<!-- BADGES — shields.io is the most reliable badge service -->
-<img src="https://komarev.com/ghpvc/?username=doanane&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS&labelColor=0d0d0d" />
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-tracked-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/doanane?style=for-the-badge&color=f107a3&labelColor=0d0d0d&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/doanane?style=for-the-badge&label=FOLLOWERS&color=f107a3&labelColor=0d0d0d" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/BASED%20IN-Ghana%20%F0%9F%87%AC%F0%9F%87%AD-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/LOCATION-Ghana-ffb347?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═════��═════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>About Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
-<h2>◈ About Me</h2>
-</div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-```js
-const desmond = {
-  name      : "Desmond Opoku Anane",
-  handle    : "@doanane",
-  location  : "Ghana",
-  role      : "Full-Stack Software Engineer",
-
-  languages : ["Python", "Java", "JavaScript"],
-  frontend  : ["React", "React Native", "Next.js"],
-  backend   : ["Django", "FastAPI", "Node.js",
-               "Express", "Spring Boot"],
-  databases : ["PostgreSQL", "MongoDB", "MySQL",
-               "SQLite", "Redis", "Firebase"],
-  devops    : ["Docker", "CI/CD",
-               "GitHub Actions", "Nginx", "Linux"],
-
-  projects  : [
-    "Birth & Death Registration System (FYP)",
-    "Kwanpa Health Service Platform",
-    "GETA Solutions Enterprise Backend"
-  ],
-
-  openToWork : true,
-  alwaysBuilding : true
-};
-```
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/NAME-Desmond%20Opoku%20Anane-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 </td>
-<td width="45%" valign="top" align="center">
-
-<!-- github-readme-stats is the MOST stable stats service -->
-<img src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=00fff7&icon_color=f107a3&text_color=ffffff&border_color=7b2ff7&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
-
-<br/><br/>
-
-<!-- Top Languages — same vercel instance as stats, very reliable -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_color=7b2ff7&langs_count=8&count_private=true" width="100%" />
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ROLE-Software%20Engineer-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/LOCATION-Ghana-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AVAILABLE-Yes-ffb347?style=for-the-badge&labelColor=0d0d0d" />
 </td>
 </tr>
 </table>
 
----
-
-<!-- ═══════════════════ SKILL BARS ═══════════════════ -->
-
-<div align="center">
-<h2>◈ Proficiency Breakdown</h2>
 </div>
 
-```
-  Python          ████████████████████████░░   95%   Backend · Django · FastAPI · Scripting
-  JavaScript      ███████████████████████░░░   90%   React · Node.js · REST APIs · ES2023
-  Java            ████████████████████░░░░░░   80%   Spring Boot · OOP · Algorithms
-  React / RN      ███████████████████████░░░   90%   SPA · Mobile Apps · Hooks · Redux
-  Docker          ████████████████████░░░░░░   80%   Compose · Containers · Deployment
-  CI/CD           ███████████████████░░░░░░░   75%   GitHub Actions · Pipelines · Automation
-  Databases       ████████████████████████░░   95%   SQL · NoSQL · ORM · Schema Design
-  DevOps          ███████████████████░░░░░░░   75%   Linux · Nginx · Cloud · Monitoring
-```
+<br/>
+
+<div align="center">
+
+I am a passionate Full-Stack Software Engineer with hands-on experience designing, building, and deploying real-world applications across healthcare, civic services, and enterprise consulting. My work spans the full development lifecycle — from architecting clean REST APIs and microservices, to shipping polished mobile and web frontends, to containerising and deploying with Docker and CI/CD pipelines.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Backend%20Systems-Expert-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+<br/><br/>
+REST API Design, Microservices,<br/>Django, FastAPI, Spring Boot,<br/>Node.js, JWT Authentication
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Frontend%20%26%20Mobile-Expert-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+<br/><br/>
+React, React Native, Next.js,<br/>Redux, Tailwind CSS,<br/>Responsive UI Design
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-Proficient-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+<br/><br/>
+Docker, CI/CD, GitHub Actions,<br/>Linux, Nginx, AWS,<br/>Container Orchestration
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
 <div align="center">
-<h2>◈ Tech Stack & Arsenal</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
 
-### Languages
+<img src="https://img.shields.io/badge/LANGUAGES-section-0d0d0d?style=for-the-badge&labelColor=7b2ff7" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -123,24 +117,30 @@ const desmond = {
 &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
----
+<br/><br/>
 
-### Frontend & Mobile
+<img src="https://img.shields.io/badge/FRONTEND%20%26%20MOBILE-section-0d0d0d?style=for-the-badge&labelColor=f107a3" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 &nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
----
+<br/><br/>
 
-### Backend & APIs
+<img src="https://img.shields.io/badge/BACKEND%20%26%20APIS-section-0d0d0d?style=for-the-badge&labelColor=00fff7&color=00fff7" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -149,11 +149,14 @@ const desmond = {
 &nbsp;
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 
----
+<br/><br/>
 
-### Databases
+<img src="https://img.shields.io/badge/DATABASES-section-0d0d0d?style=for-the-badge&labelColor=7b2ff7" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -166,29 +169,35 @@ const desmond = {
 &nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
----
+<br/><br/>
 
-### DevOps & Infrastructure
+<img src="https://img.shields.io/badge/DEVOPS%20%26%20INFRASTRUCTURE-section-0d0d0d?style=for-the-badge&labelColor=f107a3" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-6DB33F?style=for-the-badge&logo=circleci&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-&nbsp;
-<img src="https://img.shields.io/badge/CI%2FCD-Pipeline-6DB33F?style=for-the-badge&logo=circleci&logoColor=white" />
 
----
+<br/><br/>
 
-### Tools & Workflow
+<img src="https://img.shields.io/badge/TOOLS%20%26%20WORKFLOW-section-0d0d0d?style=for-the-badge&labelColor=ffb347&color=ffb347" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 &nbsp;
@@ -200,229 +209,214 @@ const desmond = {
 
 ---
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>Featured Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
-<h2>◈ Featured Projects</h2>
-</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-<h3 align="center">Birth & Death Registration — Backend</h3>
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PROJECT%2001-Birth%20%26%20Death%20Registration%20Backend-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Type-FYP%202026-f107a3?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Auth-JWT-00fff7?style=flat-square" />
-</div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
 
-<br/>
+<br/><br/>
 
-A production-grade **civic digital infrastructure** system for Ghana. Handles secure birth and death record creation, JWT authentication, multi-role access, and official document issuance via a clean Django REST API.
-
-**Key Features:**
-- Secure JWT-based authentication
-- Multi-role access (citizens, registrars, admins)
-- Document issuance and record management
-- Containerised with Docker
+A production-grade civic digital infrastructure system for Ghana's birth and death registration. Handles secure record creation, multi-role authentication, and official document issuance via a Django REST API.
 
 <br/>
 
-<div align="center">
 <a href="https://github.com/birth-and-death-fyp/Backend">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-birth--and--death--fyp%2FBackend-7b2ff7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-birth--and--death--fyp%2FBackend-00fff7?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d" />
 </a>
-</div>
 
 </td>
-<td width="50%" valign="top">
 
-<h3 align="center">Birth & Death Registration — Frontend</h3>
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PROJECT%2002-Birth%20%26%20Death%20Registration%20Frontend-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 &nbsp;
-<img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/API-REST-f107a3?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/Type-FYP%202026-f107a3?style=flat-square" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/UI-Responsive-00fff7?style=flat-square" />
-</div>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square" />
 
-<br/>
+<br/><br/>
 
-The citizen-facing **React web application** for the registration system. A clean, responsive portal for citizens and government officers to submit, track, and retrieve official civil records from the backend API.
-
-**Key Features:**
-- Role-based dashboards for citizens & officers
-- Responsive, accessible form flows
-- Integrated with Django REST backend
-- Clean modern UI/UX
+The citizen-facing React web application for the registration system. A responsive portal for citizens and government officers to submit, track, and retrieve official civil records connected to the backend API.
 
 <br/>
 
-<div align="center">
 <a href="https://github.com/birth-and-death-fyp/frontend">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-birth--and--death--fyp%2Ffrontend-f107a3?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-birth--and--death--fyp%2Ffrontend-f107a3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
-</div>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-<h3 align="center">Kwanpa Health Service Platform</h3>
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PROJECT%2003-Kwanpa%20Health%20Service%20Platform-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Domain-Healthcare-00fff7?style=flat-square" />
+<img src="https://img.shields.io/badge/Healthcare-00fff7?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Visibility-Public-00fff7?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Stars-1-ffb347?style=flat-square&logo=github" />
-</div>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square" />
 
-<br/>
+<br/><br/>
 
-A digital health services platform built to streamline medical service delivery for the **Kwanpa** health institution. Manages patient records, service requests, and health data with a Python-powered backend.
-
-**Key Features:**
-- Patient registration and health records
-- Service request and tracking system
-- Live GitHub Pages deployment
-- Clean REST API architecture
+A digital health services platform for Kwanpa that streamlines medical service delivery. Manages patient records, service requests, and health data with a Python backend and a live GitHub Pages deployment.
 
 <br/>
 
-<div align="center">
 <a href="https://github.com/doanane/Kwanpa-Health-Service">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-doanane%2FKwanpa--Health--Service-00fff7?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/View%20Repository-doanane%2FKwanpa--Health--Service-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
-</div>
 
 </td>
-<td width="50%" valign="top">
 
-<h3 align="center">GETA Solutions — Enterprise Backend</h3>
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PROJECT%2004-GETA%20Solutions%20Enterprise%20Backend-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/Type-Enterprise-ffb347?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/Org-AB%20Associates%20Consulting-7b2ff7?style=flat-square" />
-</div>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Enterprise-ffb347?style=flat-square" />
+
+<br/><br/>
+
+Enterprise-grade backend for GETA Solutions developed under AB Associates Consulting. Handles multi-tenant business logic, third-party integrations, and scalable data pipelines at consulting scale using a Node.js architecture.
 
 <br/>
 
-Enterprise-grade backend for **GETA Solutions** developed under AB Associates Consulting. Handles complex multi-tenant business logic, third-party integrations, and data pipelines at consulting scale with a Node.js architecture.
-
-**Key Features:**
-- Multi-tenant Node.js REST API
-- Complex business logic handling
-- Third-party service integrations
-- Modular, scalable architecture
-
-<br/>
-
-<div align="center">
 <a href="https://github.com/AB-Associates-Consulting/GETA-Solutions-backend">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-AB--Associates%2FGETA--backend-ffb347?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/View%20Repository-AB--Associates%2FGETA--backend-ffb347?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d" />
 </a>
-</div>
 
 </td>
+
 </tr>
 </table>
 
----
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-<div align="center">
-<h2>◈ Live GitHub Analytics</h2>
-</div>
-
-<div align="center">
-
-<!-- Two reliable cards side by side -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=00fff7&icon_color=f107a3&text_color=ffffff&border_color=7b2ff7&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_color=7b2ff7&langs_count=8&count_private=true" />
-
 </div>
 
 ---
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
 <div align="center">
-<h2>◈ GitHub Trophies</h2>
-
-<!-- Trophies — gitprofile is reliable -->
-<img src="https://github-profile-trophy.vercel.app/?username=doanane&theme=radical&no-frame=false&margin-w=10&margin-h=10&row=1&column=7" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>GitHub Statistics</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
 </div>
 
----
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
-<div align="center">
-<h2>◈ Connect With Me</h2>
 <br/>
 
+<div align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=00fff7&icon_color=f107a3&text_color=ffffff&border_color=7b2ff7&count_private=true&include_all_commits=true&hide_border=false" />
+&nbsp;&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&theme=radical&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff&border_color=7b2ff7&langs_count=8&count_private=true&hide_border=false" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=doanane&theme=radical&no-frame=false&margin-w=10&margin-h=10&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>Connect With Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/desmond-opoku-anane-39b5412b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Desmond%20Opoku%20Anane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" height="42" />
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/OGG_SKIMMER">
-  <img src="https://img.shields.io/badge/X%20%28Twitter%29-%40OGG__SKIMMER-000000?style=for-the-badge&logo=x&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/X%20Twitter-Follow%20%40OGG__SKIMMER-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d" height="42" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/doanane">
-  <img src="https://img.shields.io/badge/GitHub-%40doanane-181717?style=for-the-badge&logo=github&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20%40doanane-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" height="42" />
 </a>
 
 <br/><br/>
 
-```
-  Have an idea?         Let's build it together.
-  Need an engineer?     I am available and ready.
-  Want to collaborate?  I respond fast — reach out.
-```
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Have%20an%20idea%3F-Let's%20build%20it-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Need%20an%20engineer%3F-I%20am%20ready-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Want%20to%20collab%3F-Reach%20out%20fast-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to%20Collaborations-Yes-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/Freelance-Available-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Freelance-Available-ffb347?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/Full%20Time%20Roles-Open-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,30:7b2ff7,60:f107a3,100:ffb347&height=140&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,30:7b2ff7,60:f107a3,100:ffb347&height=150&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub><strong>Desmond Opoku Anane</strong> · @doanane · Software Engineer · Ghana · 2026</sub>
+<sub>Desmond Opoku Anane &nbsp;|&nbsp; @doanane &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Ghana &nbsp;|&nbsp; 2026</sub>
 </div>
