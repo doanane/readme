@@ -1,307 +1,368 @@
-<!-- Profile README for: https://github.com/doanane -->
-<!-- Display name requested: DEsmond Opoku Anane -->
-<!-- No emojis per request -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     DESMOND OPOKU ANANE — GITHUB PROFILE                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h1>DEsmond Opoku Anane</h1>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Desmond%20Opoku%20Anane&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p>
-I build practical software that moves from idea to production with clean architecture, reliable APIs, and polished user experiences.
-My work sits at the intersection of backend engineering, modern web/mobile interfaces, and deployment automation.
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=43C6AC&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+backends+with+Python+%26+Java;Crafting+beautiful+frontends+with+React;Shipping+production-ready+apps+with+Docker;Designing+systems+that+actually+work." alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://github.com/doanane">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=doanane&style=flat-square" />
-  </a>
-  <a href="https://github.com/doanane?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/doanane?style=flat-square" />
-  </a>
-  <a href="https://github.com/doanane?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-111111?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/desmond-opoku-anane-39b5412b4/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://x.com/OGG_SKIMMER">
-    <img alt="X" src="https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=ffffff" />
-  </a>
-</p>
+<br/>
 
-<p>
-  <a href="#featured-work">Featured work</a> •
-  <a href="#stack">Stack</a> •
-  <a href="#tooling">Tooling</a> •
-  <a href="#operating-principles">Principles</a> •
-  <a href="#stats">Stats</a>
-</p>
+<!-- Profile Views + Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=doanane&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/doanane?style=for-the-badge&color=203a43&labelColor=0f2027&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-43C6AC?style=for-the-badge&labelColor=0f2027" />
 
 </div>
 
-<hr/>
+---
 
-<h2 id="about">About</h2>
-
-<p>
-I’m a software engineer focused on building systems that are easy to scale and easy to maintain.
-I care about code quality, clear structure, and measurable outcomes: faster delivery, fewer bugs, and stable deployments.
-I work across backend services and frontend/mobile clients, and I like automating the boring parts with CI/CD so shipping stays consistent.
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<b>What you can expect from my work</b>
-<ul>
-  <li>API-first thinking with clean interfaces and predictable behavior</li>
-  <li>Production-minded development: logging, error handling, and maintainability</li>
-  <li>Database-backed systems designed for correctness and performance</li>
-  <li>Modern UI development with reusable components and scalable structure</li>
-  <li>Automation from build to deploy (CI/CD) to reduce friction and mistakes</li>
-</ul>
-
-    </td>
-    <td width="50%" valign="top">
-
-<b>What I’m actively sharpening</b>
-<ul>
-  <li>System design and service boundaries</li>
-  <li>Testing depth (unit, integration, and end-to-end)</li>
-  <li>Observability and operational readiness</li>
-  <li>Deployment workflows with Docker and modern pipelines</li>
-  <li>Shipping faster without sacrificing quality</li>
-</ul>
-
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2 id="featured-work">Featured work</h2>
-
-<p>
-These are the projects I’m actively building and improving.  
-(Some repositories are private; GitHub may restrict what visitors can view.)
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>Birth & Death FYP — Backend</h3>
-
-<p>
-<b>Repository:</b> <a href="https://github.com/birth-and-death-fyp/Backend">birth-and-death-fyp/Backend</a><br/>
-<b>Primary language:</b> Python<br/>
-<b>Default branch:</b> main
-</p>
-
-<ul>
-  <li>Backend service foundation for a full product workflow</li>
-  <li>Designed to support structured data operations and reliable API behavior</li>
-  <li>Built with a production mindset (clean organization, extensibility)</li>
-</ul>
-
-<p>
-<i>Notes:</i> If you paste the README text (or the main feature list), I will rewrite this section with exact features, endpoints, and measurable outcomes.
-</p>
-
-    </td>
-    <td width="50%" valign="top">
-
-<h3>Birth & Death FYP — Frontend</h3>
-
-<p>
-<b>Repository:</b> <a href="https://github.com/birth-and-death-fyp/frontend">birth-and-death-fyp/frontend</a><br/>
-<b>Primary language:</b> JavaScript<br/>
-<b>Default branch:</b> main
-</p>
-
-<ul>
-  <li>Frontend client built to pair with the backend workflow</li>
-  <li>UI structure designed for maintainability and iteration</li>
-  <li>Focus on clean UX and clear data flow between screens/components</li>
-</ul>
-
-<p>
-<i>Notes:</i> Share the framework (React / Next / Vite) and core screens and I will make this description highly specific.
-</p>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>Kwanpa Health Service</h3>
-
-<p>
-<b>Repository:</b> <a href="https://github.com/doanane/Kwanpa-Health-Service">doanane/Kwanpa-Health-Service</a><br/>
-<b>Primary language:</b> Python<br/>
-<b>Default branch:</b> main
-</p>
-
-<ul>
-  <li>Health-service oriented project focused on building a reliable service layer</li>
-  <li>Emphasis on clarity, structure, and maintainable backend workflows</li>
-  <li>Designed to evolve safely as features expand</li>
-</ul>
-
-    </td>
-    <td width="50%" valign="top">
-
-<h3>GETA Solutions — Backend</h3>
-
-<p>
-<b>Repository:</b> <a href="https://github.com/AB-Associates-Consulting/GETA-Solutions-backend">AB-Associates-Consulting/GETA-Solutions-backend</a><br/>
-<b>Primary language:</b> JavaScript<br/>
-<b>Default branch:</b> main
-</p>
-
-<ul>
-  <li>Backend foundation for a business/solutions platform</li>
-  <li>Structured for growth: endpoints, integrations, and data persistence</li>
-  <li>Built to support real-world product constraints and iteration</li>
-</ul>
-
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2 id="stack">Tech stack</h2>
-
-<p>
-This is the stack you said you actually use, organized for readability.
-</p>
-
-<h3>Languages</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-<h3>Frontend and mobile</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<h3>Backend and APIs</h3>
-<p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-</p>
-
-<h3>Databases</h3>
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-</p>
-
-<h3 id="tooling">DevOps and delivery</h3>
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-</p>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Build and ship</b>
-      <ul>
-        <li>Git, GitHub workflows</li>
-        <li>Docker for repeatable environments</li>
-        <li>Automated checks in CI</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <b>Data layer</b>
-      <ul>
-        <li>Relational design (PostgreSQL/MySQL)</li>
-        <li>NoSQL for flexible schemas (MongoDB)</li>
-        <li>Caching and speedups (Redis)</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <b>Engineering quality</b>
-      <ul>
-        <li>Readable code and consistent structure</li>
-        <li>Testing and maintainable APIs</li>
-        <li>Documentation that helps others move faster</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2 id="operating-principles">Operating principles</h2>
-
-<ul>
-  <li><b>Make it shippable:</b> I aim for features that can be deployed, monitored, and supported.</li>
-  <li><b>Design for change:</b> clean boundaries, predictable patterns, and minimal coupling.</li>
-  <li><b>Measure and improve:</b> performance and reliability should be observable, not guessed.</li>
-  <li><b>Keep it readable:</b> codebases scale when the next person can understand them quickly.</li>
-</ul>
-
-<hr/>
-
-<h2 id="stats">GitHub stats</h2>
+<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 
 <div align="center">
 
-<img
-  alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-
-<br/>
-
-<img
-  alt="Streak"
-  src="https://nirzak-streak-stats.vercel.app/?user=doanane&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-<br/>
-
-<img
-  alt="Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+## About Me
 
 </div>
 
-<hr/>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   const developer = {                                                    ║
+║     name     : "Desmond Opoku Anane",                                    ║
+║     handle   : "@doanane",                                               ║
+║     focus    : ["Backend Systems", "Full-Stack Apps", "DevOps"],         ║
+║     languages: ["Python", "Java", "JavaScript"],                         ║
+║     currently: "Building production-grade healthcare & civic tech",      ║
+║     available: true                                                      ║
+║   };                                                                     ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<h2 id="connect">Connect</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<ul>
-  <li>LinkedIn: https://www.linkedin.com/in/desmond-opoku-anane-39b5412b4/</li>
-  <li>X: https://x.com/OGG_SKIMMER</li>
-</ul>
+I am a passionate **Full-Stack Software Engineer** with hands-on experience designing, building, and deploying real-world applications across healthcare, civic services, and enterprise consulting platforms.
 
-<hr/>
+My work spans the full development lifecycle — from architecting clean REST APIs and microservices, to shipping polished mobile and web frontends, to containerising and deploying with Docker and CI/CD pipelines.
 
-<h2>To make the project section sharply accurate</h2>
+I care deeply about **code quality**, **system design**, and building software that **makes a difference**.
 
-<p>
-If you paste (1) each project’s one-paragraph description or (2) screenshots/features list, I will upgrade the “Featured work” section to include:
-</p>
+</td>
+<td width="50%" valign="top">
 
-<ul>
-  <li>Exact problem statement and who it serves</li>
-  <li>Key features (3–7 bullets) based on the real implementation</li>
-  <li>Stack per project (frameworks, DB, auth, deployment)</li>
-  <li>One standout engineering detail per project (performance, architecture, CI/CD, etc.)</li>
-</ul>
+**Current Projects:**
+- Birth & Death Registration System (FYP)
+- Kwanpa Health Service Platform
+- GETA Solutions Enterprise Backend
 
-<p>
-Optional: tell me if you want a dark theme only look (like this) or a lighter style.
-</p>
+**Focus Areas:**
+- Scalable REST API Design
+- Mobile-first React Native Development
+- Cloud-native DevOps & CI/CD
+- Relational & NoSQL Database Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
+
+<div align="center">
+
+## Tech Stack & Tooling
+
+</div>
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge&logo=typescript&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=43C6AC" />
+
+---
+
+### Frontend & Mobile
+
+<img src="https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/React_Native-0f2027?style=for-the-badge&logo=react&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=for-the-badge&logo=next.js&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f2027?style=for-the-badge&logo=tailwind-css&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Redux-0f2027?style=for-the-badge&logo=redux&logoColor=43C6AC" />
+
+---
+
+### Backend & APIs
+
+<img src="https://img.shields.io/badge/Django-0f2027?style=for-the-badge&logo=django&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=for-the-badge&logo=fastapi&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge&logo=node.js&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Express.js-0f2027?style=for-the-badge&logo=express&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-0f2027?style=for-the-badge&logo=spring-boot&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST_API-0f2027?style=for-the-badge&logo=api&logoColor=43C6AC" />
+
+---
+
+### Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-0f2027?style=for-the-badge&logo=sqlite&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Redis-0f2027?style=for-the-badge&logo=redis&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-0f2027?style=for-the-badge&logo=firebase&logoColor=43C6AC" />
+
+---
+
+### DevOps & Infrastructure
+
+<img src="https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-0f2027?style=for-the-badge&logo=github-actions&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-0f2027?style=for-the-badge&logo=circleci&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Nginx-0f2027?style=for-the-badge&logo=nginx&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazon-aws&logoColor=43C6AC" />
+
+---
+
+### Tools & Workflow
+
+<img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-0f2027?style=for-the-badge&logo=visual-studio-code&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Postman-0f2027?style=for-the-badge&logo=postman&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Figma-0f2027?style=for-the-badge&logo=figma&logoColor=43C6AC" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jira-0f2027?style=for-the-badge&logo=jira&logoColor=43C6AC" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════ FEATURED PROJECTS ══════════════════════════ -->
+
+<div align="center">
+
+## Featured Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+<h3>Birth & Death Registration System — Backend</h3>
+<img src="https://img.shields.io/badge/Python-Backend-43C6AC?style=flat-square&logo=python&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Django-API-43C6AC?style=flat-square&logo=django&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/FYP-2026-0f2027?style=flat-square" />
+</div>
+
+A full-scale **Final Year Project** — a digital birth and death registration platform built for Ghana's civic infrastructure. The backend powers secure record creation, authentication, and document issuance via a clean Python/Django REST API.
+
+**Highlights:**
+- Secure JWT-based authentication
+- Birth & death record management APIs
+- Role-based access for registrars and admins
+- PostgreSQL data persistence
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/birth-and-death-fyp/Backend)
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+<h3>Birth & Death Registration System — Frontend</h3>
+<img src="https://img.shields.io/badge/JavaScript-Frontend-43C6AC?style=flat-square&logo=javascript&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-SPA-43C6AC?style=flat-square&logo=react&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/FYP-2026-0f2027?style=flat-square" />
+</div>
+
+The client-facing interface of the Birth & Death Registration System. Built with **React**, it provides a clean and accessible portal for citizens and government officers to interact with the registration system.
+
+**Highlights:**
+- Responsive, accessible UI
+- Dynamic form flows for registration
+- Integrated with backend REST API
+- Role-based dashboard views
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/birth-and-death-fyp/frontend)
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+<h3>Kwanpa Health Service Platform</h3>
+<img src="https://img.shields.io/badge/Python-Backend-43C6AC?style=flat-square&logo=python&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Healthcare-Tech-43C6AC?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Public-Repo-0f2027?style=flat-square" />
+</div>
+
+A healthcare services platform built to streamline medical service delivery. This system handles patient data, service requests, and health record management for the **Kwanpa** health institution.
+
+**Highlights:**
+- Patient registration and health records
+- Service request management
+- Python-powered backend with GitHub Pages deployment
+- Clean API-first architecture
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/doanane/Kwanpa-Health-Service)
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+<h3>GETA Solutions — Enterprise Backend</h3>
+<img src="https://img.shields.io/badge/JavaScript-Backend-43C6AC?style=flat-square&logo=javascript&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-API-43C6AC?style=flat-square&logo=node.js&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/AB%20Associates-Consulting-0f2027?style=flat-square" />
+</div>
+
+An enterprise-grade backend solution developed under **AB Associates Consulting** for the GETA Solutions platform. Designed to handle complex business logic, data management, and third-party integrations at scale.
+
+**Highlights:**
+- Node.js/JavaScript REST API
+- Enterprise consulting use case
+- Modular, scalable architecture
+- Secure multi-tenant design
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC)](https://github.com/AB-Associates-Consulting/GETA-Solutions-backend)
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
+
+<div align="center">
+
+## GitHub Statistics
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doanane&show_icons=true&theme=dark&bg_color=0f2027&title_color=43C6AC&icon_color=43C6AC&text_color=ffffff&border_color=203a43&hide_border=false&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=doanane&theme=dark&background=0f2027&ring=43C6AC&fire=43C6AC&currStreakLabel=43C6AC&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=203a43" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanane&layout=compact&theme=dark&bg_color=0f2027&title_color=43C6AC&text_color=ffffff&border_color=203a43&langs_count=8&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=doanane&bg_color=0f2027&color=43C6AC&line=2c5364&point=43C6AC&area=true&hide_border=false&border_color=203a43" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════ ACHIEVEMENTS ══════════════════════════ -->
+
+<div align="center">
+
+## GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=doanane&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
+
+<div align="center">
+
+## Connect With Me
+
+<br/>
+
+<a href="https://www.linkedin.com/in/desmond-opoku-anane-39b5412b4/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Desmond%20Opoku%20Anane-0f2027?style=for-the-badge&logo=linkedin&logoColor=43C6AC&labelColor=203a43" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/OGG_SKIMMER" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-@OGG__SKIMMER-0f2027?style=for-the-badge&logo=x&logoColor=43C6AC&labelColor=203a43" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/doanane" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-@doanane-0f2027?style=for-the-badge&logo=github&logoColor=43C6AC&labelColor=203a43" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Collaborations-Yes-43C6AC?style=for-the-badge&labelColor=0f2027" />
+&nbsp;
+<img src="https://img.shields.io/badge/Freelance-Available-43C6AC?style=for-the-badge&labelColor=0f2027" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════ QUOTE ══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good%20software%2C%20like%20good%20writing%2C%20is%20rewritten.&author=Joel%20Spolsky" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+<div align="center">
+  <sub>Crafted with precision by <strong>Desmond Opoku Anane</strong> — 2026</sub>
+</div>
