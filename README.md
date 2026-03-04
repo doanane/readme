@@ -350,11 +350,11 @@ More projects are in active development across healthcare, civic tech, enterpris
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-50%2B-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-70%2B-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Public%20Repos-1-00fff7?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Public%20Repos-40-00fff7?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/Private%20Repos-4%2B-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Private%20Repos-30%2B-7b2ff7?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" />
 <br/><br/>
@@ -367,7 +367,7 @@ More projects are in active development across healthcare, civic tech, enterpris
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/ACTIVE%20SINCE-2023-f107a3?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Organisations-3-f107a3?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Organisations-15-f107a3?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 <img src="https://img.shields.io/badge/birth--and--death--fyp-Org%20Member-00fff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 <br/><br/>
