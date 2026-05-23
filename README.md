@@ -520,3 +520,43 @@ More projects are in active development across healthcare, civic tech, enterpris
 <div align="center">
 <sub>Desmond Opoku Anane &nbsp;|&nbsp; @doanane &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Ghana &nbsp;|&nbsp; 2026</sub>
 </div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:f107a3&height=3&section=header" width="100%" />
+<h2>Recent Progress &amp; Evidence</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f107a3,50:7b2ff7,100:00fff7&height=3&section=footer" width="100%" />
+</div>
+
+<br/>
+
+<details>
+<summary><b>Click to expand progress with evidence links</b></summary>
+
+- [Latest commit: 95bae4b4e9f0e872542b0fc69b3d9aba111e94d0](https://github.com/doanane/doanane/commit/95bae4b4e9f0e872542b0fc69b3d9aba111e94d0)
+- [dd1e060 Commit: update repository content](https://github.com/doanane/doanane/commit/dd1e060b0c9e239f92dd542ec118f17ef28be7d6)
+- [6fa49b3 Commit: enhanced project documentation](https://github.com/doanane/doanane/commit/6fa49b3a72f1f1e2511d604fd7ad2d47a9d160ab)
+- [e21fecb Commit: adjusted badges and project details](https://github.com/doanane/doanane/commit/e21fecb13313076a822894faf94b69c7c69d608a)
+- [ccd125c Commit: refined tech stack list](https://github.com/doanane/doanane/commit/ccd125cd24fc43601190b12af53260d62159385a)
+- [be370b8 Commit: minor formatting tweaks](https://github.com/doanane/doanane/commit/be370b8f94a53ed6647880121f4861dca006c2a4)
+- [6a8f26c Commit: add social profile links](https://github.com/doanane/doanane/commit/6a8f26c5d951f2b99d56c5b6f1c39f25cdbac06f)
+- [7dea7e2 Commit: README content structure improvement](https://github.com/doanane/doanane/commit/7dea7e26c8ae22df9711d0f0c54ae28661bebd17)
+- [7c1e700 Commit: updated contribution stats](https://github.com/doanane/doanane/commit/7c1e700a79b18acb57e36d6518fd029e71bc3aa4)
+- [8f60f8e Commit: add new tech badges](https://github.com/doanane/doanane/commit/8f60f8ee58b55a5cdb2a31fd841653bdbadd3679)
+- [73e95de Commit: project section improvement](https://github.com/doanane/doanane/commit/73e95de3cb2830cab17fb8629067ad51dad3b737)
+- [8a04bd4 Commit: updated language stats](https://github.com/doanane/doanane/commit/8a04bd47a581c323328e77c2cb8eb08ace8d9d91)
+- [d32731c Commit: tweaked ‘About Me’ section](https://github.com/doanane/doanane/commit/d32731cf9e5fd4ea9769809c6345d38e7ae06861)
+- [e98de47 Commit: added new featured project](https://github.com/doanane/doanane/commit/e98de47c37a5aa52c9786f283ab697ec3700a91c)
+- [67231ed Commit: refreshed contact details](https://github.com/doanane/doanane/commit/67231ed588ec0bdb4919397c9a0722339fcda0d4)
+- [55d6c9f Commit: added more collaboration badges](https://github.com/doanane/doanane/commit/55d6c9f95a383740e76599fc5f27d10d0603b4df)
+- [dd4a490 Commit: updated project URLs and badges](https://github.com/doanane/doanane/commit/dd4a4906a6ac0e1e7a392bebb56840f1ecdeef44)
+- [582874e Commit: enhanced featured project links](https://github.com/doanane/doanane/commit/582874e8576558a641a38fb322175d66fa2878be)
+- [fa8c31a Commit: README minor fixes](https://github.com/doanane/doanane/commit/fa8c31ab7706f9ee90498bb92ed8d0a13fdd38ca)
+- [9b6215e Commit: organized badge displays](https://github.com/doanane/doanane/commit/9b6215e1eec90f5a4c7051d57ef9894798b4cacf)
+- [dd58ef9 Commit: improved summary section](https://github.com/doanane/doanane/commit/dd58ef92a1d8a8b7afbb12bd8a4ef8fd93a033e7)
+- [ba67935 Commit: added new badge styles](https://github.com/doanane/doanane/commit/ba67935db7847ea0c93bd659024d42435a11c2b2)
+- [4b3e2fe Commit: misc adjustments](https://github.com/doanane/doanane/commit/4b3e2fe90edee7dcbf477319890a107cf78e6cbb)
+- [0c503ca Commit: updated copyright](https://github.com/doanane/doanane/commit/0c503ca276dae8964cb30fa839502431dd5083d8)
+
+</details>
